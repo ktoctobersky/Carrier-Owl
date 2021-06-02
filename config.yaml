@@ -7,6 +7,7 @@ keywords:
         aerial: 5
         kaggle: 4
         impact evaluation: 3
+        green tech: 3
 
 # 通知の閾値
 score_threshold: 0
