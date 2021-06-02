@@ -1,11 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.* OR cat:eess.* OR cat:econ.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        satellite: 5
+        aerial: 5
+        kaggle: 4
+        impact evaluation: 3
 
 # 通知の閾値
 score_threshold: 0
